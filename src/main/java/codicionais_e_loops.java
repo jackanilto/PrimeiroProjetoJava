@@ -33,7 +33,13 @@ public class codicionais_e_loops {
         // entao se uma for verdadeira o resultado será verdadeiro
         // portanto se fizermos if(1 >= 2)  o resultado será Falso por que as duas comparações sao Falsas
 
-        // for
+        // for ==================================
+        // Neste codigo i recebe o valor 0 e enquanto i for menor que 10 incrementa +1
+        // desta forma o sistema incrementa até o numero 9
+        // se mudar o codigo para  i>=10 aí sim irá incrementar ate o numero 10
+        for (int i =0; i<=10; i++){
+            System.out.println(i);
+        }
 
         //while
 
